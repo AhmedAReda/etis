@@ -30,6 +30,8 @@ class MemberCubit extends Cubit<MemberState> {
     await _audioPlayer.play(AssetSource(audio)); // Play audio from assets
   }
 
+  // Ahmed
+
    
 
   addNewMmber(CollectionModel collectionmodel) async {
