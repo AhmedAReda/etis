@@ -1,0 +1,10 @@
+flutter_native_splash:
+# ios & android belw 12
+  color: "#000000"
+  image: assets/native.jpg
+
+  android_12:
+    color: "#000000"
+    image: assets/native.jpg
+      
+             
